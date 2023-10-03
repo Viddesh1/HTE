@@ -32,7 +32,7 @@ Link to Code and executable file:
 
 https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database
 
-2) Github link code and output of google colab :- 
+2) Github link code and output of google colab in TcsInternship/HTR_Using_CRNN folder:- 
 
 https://github.com/Viddesh1/HTE
 
